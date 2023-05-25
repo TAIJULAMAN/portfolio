@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    color: whitesmoke;
+    padding: 10px,45px;
+    border-radius: 5px;
+}
+.hal{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.top-banner{
+    padding: 5px;
+    display: flex;
+    margin: 5px;
+   
+}
+half{
+    width: 50%;
+    
+}
